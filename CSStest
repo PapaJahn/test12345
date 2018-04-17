@@ -8,4 +8,5 @@ p {
 
 body {
   background-color: orange;
+  background-image: url("yodelkid.jpg");
 }
