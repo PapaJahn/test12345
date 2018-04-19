@@ -8,5 +8,5 @@ p {
 
 body {
   background-color: orange;
-  background-image: url("patrick.jpg");
+  background-image: url("imagination.png");
 }
